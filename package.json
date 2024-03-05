@@ -1,0 +1,25 @@
+{
+  "name": "agriledge",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ethers": "^6.11.1",
+    "next": "14.1.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "web3modal": "^1.9.12"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "autoprefixer": "^10.0.1",
+    "hardhat": "^2.20.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
